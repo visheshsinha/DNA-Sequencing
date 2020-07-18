@@ -1,4 +1,6 @@
-_Note : All the Rendered Juypter Notebooks(in nbviewer) for better view are availabe by clicking on the links embedded below._
+_Note : All the Rendered Juypter Notebooks(in nbviewer) for better view are availabe by clicking on the links embedded below. Also some links might not work so you can direcly [click here](https://nbviewer.jupyter.org/) and paste the link of the notebook you cant to render_
+
+
 ### [DNA Sequencing](https://nbviewer.jupyter.org/github/visheshsinha/DNA_Sequencing/blob/master/DNA_Sequencing.ipynb?flush_cache=flase) 
 
 DNA Sequencing is the process of determining the nucleic acid sequence – the order of nucleotides in DNA. It includes any method or technology that is used to determine the order of the four bases: _Adenine(A)_, _Guanine(G)_, _Cytosine(C)_, and _Thymine(T)_.
@@ -11,7 +13,7 @@ DNA Sequencing may be used to determine the sequence of individual genes, larger
     The algorithm in which the text 'T' (in our case the reference genome) is not pre-processed, and it doesn't matter if the pattern 'P' is pre-processed or not.
     - ##### [Naive Exact Matching Algorithm](https://github.com/visheshsinha/DNA_Sequencing/blob/master/naive_algo.py) : 
          >We niether pre-process 'P' nor 'T'.
-    - ##### [Boyer-Moore (using Z-Algorithm)](https://nbviewer.jupyter.org/github/visheshsinha/DNA_Sequencing/blob/master/Boyer's_Moore_Pattern_Matching.ipynb?flush_cache=flase) :
+    - ##### [Boyer-Moore (using Z-Algorithm)](https://nbviewer.jupyter.org/github/visheshsinha/DNA_Sequencing/blob/master/Boyer's_Moore_Pattern_Matching.ipynb?flush_cache=true) :
          >Here we pre-process 'P' but not 'T' so it's online.
         
         - ##### Text Resource : Go Through Chapter 2 of [Algorithms on Strings, Trees, and Sequences( by Dan Gusfield)](https://doi.org/10.1017/CBO9780511574931)
