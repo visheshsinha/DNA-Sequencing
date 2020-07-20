@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 *.fa
 *.fastq
+__pycache__
